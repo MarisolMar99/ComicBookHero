@@ -1,0 +1,5 @@
+// Enum defining comic book heroes teams
+public enum Affiliation 
+{
+    AVENGERS, JUSTICE_LEAGUE, X_MEN, FANTASTIC_FOUR
+}
